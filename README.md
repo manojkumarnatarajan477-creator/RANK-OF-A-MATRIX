@@ -18,7 +18,7 @@ print(rank)
 
 ```
 ## Output:
-<img width="1316" height="829" alt="mathsforai-ex-2" src="https://github.com/user-attachments/assets/85513e87-56e0-4f34-9990-902c718da216" />
+![alt text](image.png)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
